@@ -1,4 +1,6 @@
 Testing 1
+Date: January 1, 2026
+Author: Lorem Ipsum
 THORN
 HORN | Remove a letter to make a noisy instrument
 NORTH | Add a letter and anagram to show a direction
@@ -9,6 +11,8 @@ HOARSE | clue: 'Sounds the same.
 ---
 
 Testing 2
+Date: January 2, 2026
+Author: Lorem Ipsum
 CAT
 CART | Add a letter to make something that has wheels
 CARE | Replace the last letter for a type of concern
