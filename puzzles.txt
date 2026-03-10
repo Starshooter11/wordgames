@@ -20,3 +20,19 @@ BEARS | _____ that "previous word"
 SEARS | Change a letter to get a store that may or may no longer exist, idk
 STEAK | This is the type of meat you do this to
 STAKE | Anagram to get something that would feel rather painful
+---
+
+Number Theory 1: Prime Time
+Date: March 9, 2026
+Author: Alternative English Dictionary
+Prime
+Euclid | By this theorem, there are infinitely many
+Euler | Co-'proofer' for another related theorem, popularized many commonly used math notations today
+Seven Bridges | Foundational problem of a topic used more in CS today, proposed by previous answer
+Wonder | Replace one word with another for a commonly recognized term
+Golden Ratio | One of the 'previous word' of math that is commonly found in the real world
+Phi | Denoting symbol
+Totient | A function denoted with the same symbol
+Aliquot | The 'inverse', logically
+Perfect | Using this, 6 is the first "" number.
+Divisor | All 'previous word' numbers have at least 3 ""
