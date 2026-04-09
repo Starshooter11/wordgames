@@ -96,9 +96,9 @@ Second | If one is top (previous word), they can be either first or (this word)
 ---
 
 Month of Poetry, 3: Suddenly, everything's Greek
-Date: April 2, 2026
+Date: April 3, 2026
 Author: Alternative English Dictionary
-April |
+April 
 Stalin | Famous(and notorious) political leader was elected on (previous word) 3rd as the first of his line in this now-dissolved country
 Churchill | (previous word)'s contemporary, regarded as the most important leader during a global conflict
 Cig | (previous word)'s first name is shared with a brand of (this word)
@@ -117,5 +117,32 @@ Patroclus | There exists a wildly popular media focused on (previous word) and (
 Wedding | Although killed by another, (previous word)'s death, if traced back far enough, would be due to someone else's fault concerning a (this word); truly, it was doomed from the very beginning
 White | A common color found at (previous word)
 Third | In the countries that observe it, (previous word) Day happens on the (this word) month
+---
+
+Month of Poetry, 4: Space x 2!!!
+Date: April 4, 2026
+Author: Alternative English Dictionary
+April 4th 
+May 4th| The next one after (previous word)
+Force | A fictional energy field that exists within the franchise who celebrates (previous word)
+Forge | Change one letter in the previous word to get a place
+Neutron Star | The object that powers the (previous word) of dwarves
+Black Hole | The only object to surpass the (previous word) in tininess and density
+Event Horizon | Should you pass the (this word) of a (previous word), there is no returning
+Interstellar | A movie where the characters enter the (previous word) and survive
+Hans Zimmer | The composer of (previous word)'s tracks
+Dune | A space opera that (previous word) worked on
+The Martian | A movie that takes place in an environment similar to (previous word)
+Potato | The main food source consumed in (previous word)
+Butter | (previous word) and (this word) contain enough essential nutrients to sustain life; no, it's probably not a good idea to only eat these though
+BTS | (previous word)'s artist, (this word)
+Seventeen | Fellows in the same genre as (previous word), they were the first to send an object to space for a music video
+Space Race | A historical competition of doing a sequence of the same thing (previous word) did with the microphone
+Sputnik 1 | The first milestone of the (previous word) was achieved by (this word)
+Voyager | Fellow pioneers of (previous word), they have travelled the furthest
+Pale Blue Dot | (previous word)'s most famous photo
+
+
+
 
 
