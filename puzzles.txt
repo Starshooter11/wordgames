@@ -141,8 +141,9 @@ Space Race | A historical competition of doing a sequence of the same thing (pre
 Sputnik 1 | The first milestone of the (previous word) was achieved by (this word)
 Voyager | Fellow pioneers of (previous word), they have travelled the furthest
 Pale Blue Dot | (previous word)'s most famous photo
-
-
-
+Blue | A rather famous animal that has (previous word)s
+Ocean | The (previous word) that is, on average, below 0 feet.
+Francis Drake | The first person to survive a circumnavigation around (previous word)
+April 4th | The date (previous word) was knighted.
 
 
