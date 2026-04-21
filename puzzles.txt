@@ -145,5 +145,26 @@ Blue | A rather famous animal that has (previous word)s
 Ocean | The (previous word) that is, on average, below 0 feet.
 Francis Drake | The first person to survive a circumnavigation around (previous word)
 April 4th | The date (previous word) was knighted.
+---
 
+Month of Poetry, 5: Easter
+Date: April 5, 2026
+Author: Alternative English Dictionary
+April
+Easter | The largest religious holiday that happens in this month
+Matthew | The book in which the previous word happens in
+Evangelist | Together with three other authors, (previous word) is considered an (this word)
+Evangelion | Replace two letters in (previous word) to get a fictional mecha
+Spear of Longinus | The weapon that, in both the real world and (previous word) world, can pierce a god/god-like being.
+Joyeuse | Another weapon, said to contain a fragment of the (previous word). It was wielded by the first Emperor of the west after the Roman's fall.
+Wayland | The forger of the previous word.
+Wand | Remove a subset of letters in (previous word) to get another weapon.
+Wicked | A relatively recent series whose protagonists use (previous word)s.
+Wendy | The protagonist of the main story that takes place within the world the (previous word) takes place in.
+Alice | A fellow protagonist of a series with similar features, including travelling to another, more magical, world and trying to find a way back.
+White Rabbit | The character (previous word) encounters who carries a pocket watch and is always trying to be on time.
+Chang'e | (previous word) is also the companion of this lady on the moon.
+Hou Yi | (previous word)'s significant other who is a rather famous archer.
+10 | (previous word)'s most famous legend where they shot down (this word) celestial bodies
+5 | The (previous word) in half.
 
